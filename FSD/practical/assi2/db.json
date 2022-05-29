@@ -1,0 +1,28 @@
+{
+  "student": [
+   {
+   "sname":"Deepak",
+   "test1":12,
+   "test2":16,
+   "test3":45
+   }, 
+   {
+       "sname":"Ankit",
+       "test1":12,
+       "test2":16,
+       "test3":45
+   },
+   {
+    "sname":"Debaditya",
+    "test1":15,
+    "test2":48,
+    "test3":45
+},
+{
+  "sname":"Ravinder",
+  "test1":67,
+  "test2":48,
+  "test3":45
+}
+  ]
+}
