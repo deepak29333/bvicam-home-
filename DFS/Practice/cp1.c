@@ -1,7 +1,6 @@
 
 //stack implementation using array
 #include<stdio.h>
-// #include<conio.h>
 int a[10], size=10,top=-1,i;
 int pop();
 void push(int);
@@ -10,6 +9,7 @@ int isEmpty();
 void display();
 void main(){
   int choice, item;
+  printf("coded by Deepak(04335304421)");
   do{
       printf("\n***********Menu**********");
       printf("\n1. Push");
